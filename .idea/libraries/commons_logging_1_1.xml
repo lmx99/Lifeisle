@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="commons-logging-1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/itextpdf-5.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jbarcode-0.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/junit-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/log4j-1.2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/PDFBox-0.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/poi-3.2-FINAL-20081019.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/poi-contrib-3.2-FINAL-20081019.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/poi-scratchpad-3.2-FINAL-20081019.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/QRCode.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/tm-extractors-0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
