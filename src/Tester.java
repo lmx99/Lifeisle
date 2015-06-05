@@ -23,5 +23,7 @@ public class Tester {
         } catch (IOException | DocumentException | InvalidAtributeException e) {
             e.printStackTrace();
         }
+
+        System.out.println("hello, git");
     }
 }
